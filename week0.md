@@ -40,4 +40,4 @@
 - BigQuery 사용법을 알 수 있었음
 - 컴활 공부할 때 간단하게 쿼리 작성을 해본 적이 있는데, SQL로 더 간편하게 데이터를 활용하기 위해 더 학습해보고 싶음
 
-![week0](week0/image.png)
+![sqlweek0](git/sqlweek0.png)
