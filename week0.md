@@ -40,4 +40,4 @@
 - BigQuery 사용법을 알 수 있었음
 - 컴활 공부할 때 간단하게 쿼리 작성을 해본 적이 있는데, SQL로 더 간편하게 데이터를 활용하기 위해 더 학습해보고 싶음
 
-![sqlweek0](/git/sqlweek0.png)
+![sqlweek0](https://github.com/user-attachments/assets/550d36ac-230c-41c6-8f39-640050b302e3)
