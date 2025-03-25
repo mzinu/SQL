@@ -147,4 +147,4 @@ ORDER BY cnt DESC
 - 조건 : WHERE/HAVING
 - 정렬 : ORDER
 
-![SQL_week1](./asset/SQL_week1.png)
+![SQL_week1](https://github.com/user-attachments/assets/1326f851-f42a-433c-8468-66a63a515f11)
