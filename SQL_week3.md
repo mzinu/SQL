@@ -162,7 +162,7 @@
    - 슈퍼 키
    - 후보 키
 - 식별자 : 연결 관계
-![Image](https://github.com/user-attachments/assets/0b140604-e787-432a-aed4-f4faebf3bb27)
+- ![Image](https://github.com/user-attachments/assets/0b140604-e787-432a-aed4-f4faebf3bb27)
 
 <br>
 <br>
