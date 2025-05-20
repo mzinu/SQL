@@ -70,4 +70,4 @@ FROM (
 )
 ORDER BY battle_id
 ```
-
+![Image](https://github.com/user-attachments/assets/984b77bd-98ca-4af8-9285-1db172a08562)
